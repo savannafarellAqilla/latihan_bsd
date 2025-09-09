@@ -33,6 +33,7 @@ text-decoration: none;
 }
 #main-nav a:hover{color: #db6d16;}
 #footer {
+    Clear:both;
 height: 70px;
 font-family: Tahoma, Arial, Helvetica, Sans-serif;
 font-size: 10px;
@@ -48,6 +49,7 @@ text-decoration: none;
 #footer a:hover {
 color: #db6d16;
 }
+Clear:both; 
 #footer #altnav {
 width: 350px;
 float: right;
@@ -57,3 +59,10 @@ text-align: right;
 font-family:Tahoma, arial, helvetica, sans-serif;
 font-size:14px;
 padding: 15px 15px;}
+
+#side-bar{
+background:rgba(56, 3, 230, 0.4)
+00; float:right;
+width:150px;
+height: 200px;
+}
