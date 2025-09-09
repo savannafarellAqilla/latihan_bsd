@@ -21,19 +21,17 @@ background: green;
 background: orange;
 height: 66px;
 }
+
 #main-nav {
 height: 15px;
 text-align:center;
 font-family: Tahoma, Arial, Helvetica, Sans-serif;
 }
-div main-nav <a>
 #main-nav a{
 color: #c9c9c9;
 text-decoration: none;
 }
-div main-nav <a> 
 #main-nav a:hover{color: #db6d16;}
-footer
 #footer {
 height: 70px;
 font-family: Tahoma, Arial, Helvetica, Sans-serif;
@@ -55,8 +53,6 @@ width: 350px;
 float: right;
 text-align: right;
 }
-main-nav.
-content:
 #content {
 font-family:Tahoma, arial, helvetica, sans-serif;
 font-size:14px;
