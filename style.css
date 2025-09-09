@@ -26,14 +26,14 @@ height: 15px;
 text-align:center;
 font-family: Tahoma, Arial, Helvetica, Sans-serif;
 }
-Khusus untuk div main-nav yang mempunyai tag <a>
+div main-nav <a>
 #main-nav a{
 color: #c9c9c9;
 text-decoration: none;
 }
-Khusus untuk div main-nav pada tag <a> yang di hover
+div main-nav <a> 
 #main-nav a:hover{color: #db6d16;}
-CSS untuk bagian footer
+footer
 #footer {
 height: 70px;
 font-family: Tahoma, Arial, Helvetica, Sans-serif;
@@ -55,8 +55,8 @@ width: 350px;
 float: right;
 text-align: right;
 }
-Pengaturannya hampir sama dengan css pada bagian main-nav.
-CSS untuk bagian content:
+main-nav.
+content:
 #content {
 font-family:Tahoma, arial, helvetica, sans-serif;
 font-size:14px;
